@@ -1,13 +1,14 @@
 # Site settings
 title: Developer Portal
-email: email@example.com
+email: ryandaydev@gmail.com
 description: >
-  Documentation for [company name]'s' [name of API].
+Documentation for Sports World Central's Fantasy Football API.
 
-baseurl: "/dev-portal/" # the subpath of your site, e.g. /blog/
+
+baseurl: "/dev-portal" # the subpath of your site, e.g. /blog/
 url: https://ryandaydev.github.io # the base hostname & protocol for your site
-git_address: https://github.com/launchany/mvp-template
-git_edit_address: https://github.com/launchany/mvp-template/blob/gh-pages
+git_address: https://github.com/ryandaydev/dev-portal
+git_edit_address: https://github.com/ryandaydev/dev-portal/blob/gh-pages
 
 # Theme options from https://bootswatch.com/
 # comment-out to use default Bootstrap
