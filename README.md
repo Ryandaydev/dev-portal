@@ -4,7 +4,7 @@ This is the code for the developer portal website for the Sports World Central A
 
 The website is built and deployed using GitHub Pages. This is the published website address: https://ryandaydev.github.io/dev-portal/
 
-This repository was cloned from the LaunchAny Minimum Viable Portal repository: https://github.com/launchany/mvp-template. If you would like to create your open portal, I recommend referencing that original project.
+This repository was cloned from the LaunchAny Minimum Viable Portal repository: https://github.com/launchany/mvp-template. If you would like to create your open portal, I recommend that you reference that original project.
 
 ## About the theme
 
