@@ -4,7 +4,7 @@ permalink: /docs/openapi/
 ---
 The interactive documentation below demonstrates the functionality of the SWC Fantasy Football API. 
 
-* The "Try it out" functionality is not functional at this time, but please check back soon for this feature.
+_The "Try it out" functionality is not functional at this time, but please check back soon for this feature._
 
 <div class="intrinsic-container">
 
