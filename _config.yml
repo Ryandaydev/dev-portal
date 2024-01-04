@@ -1,9 +1,7 @@
 # Site settings
 title: Developer Portal
 email: ryandaydev@gmail.com
-description: >
-Documentation for Sports World Central's Fantasy Football API.
-
+description: Documentation for Sports World Central's Fantasy Football API.
 
 baseurl: "/dev-portal" # the subpath of your site, e.g. /blog/
 url: https://ryandaydev.github.io # the base hostname & protocol for your site
