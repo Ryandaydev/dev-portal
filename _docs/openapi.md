@@ -19,7 +19,7 @@ _Note: The "Try it out" functionality is not functional at this time, but please
 <script>
   window.onload = () => {
     window.ui = SwaggerUIBundle({
-      url: '/sample-dev-portal/openapi2.json',
+      url: '/dev-portal/openapi.json',
       dom_id: '#swagger-ui',
     });
   };
