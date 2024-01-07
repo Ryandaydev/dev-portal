@@ -1,4 +1,3 @@
-<!--- Chapter 4 OpenAPI.md --->
 ---
 title: Interactive API documentation
 permalink: /docs/openapi/
