@@ -1,7 +1,7 @@
 {"openapi":"3.1.0",
 "servers": [
     {
-      "url": "{https://someapiaddress.example.com/}"
+      "url": "{https://render-api-service-2.onrender.com/}"
     }
   ],
 "info":{"title":"Sports World Central (SWC) Fantasy Football API","description":"\nThis API provides read-only access to info from the Sports World Central (SWC) Fantasy Football API. 🏈. \nThe endpoints are grouped into the following categories:\n\n## Player\nYou can get a list of an NFL players, or search for an individual player by player_id.\n\n## Scoring\nYou can get a list of NFL player performances, including the fantasy points they scored using SWC league scoring.\n\n## Membership\nGet information about all the SWC fantasy football leagues and the teams in them.\n","version":"0.1"},
