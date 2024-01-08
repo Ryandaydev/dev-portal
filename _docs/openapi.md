@@ -16,7 +16,8 @@ The interactive documentation below demonstrates the functionality of the SWC Fa
   window.onload = () => {
     window.ui = SwaggerUIBundle({
       url: '/dev-portal/openapi.json',
-      dom_id: '#swagger-ui'
+      dom_id: '#swagger-ui',
+	  supportedSubmitMethods: [] 
     });
   };
 </script>
